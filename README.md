@@ -6,3 +6,6 @@ Data Science Homework
 
 ## Homework 2 - Glass Identification (k-nearest)
 * iPython notebook file
+
+## Homework 2 - Yelp Review (linear regression)
+* iPython notebook file
