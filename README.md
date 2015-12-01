@@ -9,3 +9,13 @@ Data Science Homework
 
 ## Homework 3 - Yelp Review (linear regression)
 * iPython notebook file
+
+## Homework 4 - Titanic
+* TODO
+
+## Homework 5 - ROC Curves
+* TODO
+
+## Homework 6a - Spam Filtering
+
+## Homework 6b - Yelp Text
