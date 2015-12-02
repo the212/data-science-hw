@@ -16,6 +16,5 @@ Data Science Homework
 ## Homework 5 - ROC Curves
 * TODO
 
-## Homework 6a - Spam Filtering
-
-## Homework 6b - Yelp Text
+## Homework 6 - Yelp Text
+* iPython notebook file
