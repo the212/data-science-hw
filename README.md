@@ -18,3 +18,6 @@ Data Science Homework
 
 ## Homework 6 - Yelp Text
 * iPython notebook file
+
+## Kaggle Competition - Stack Overflow Q's
+* iPython notebook file (so-kaggle)
